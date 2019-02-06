@@ -5,6 +5,7 @@ import org.junit.Test;
 public class AppTest {
 
     private String INPUT = "123456";
+     private String INPUT1 = "12345";
     @Test 
     public void testLength() {
         // test
@@ -12,8 +13,6 @@ public class AppTest {
         // Ok
         // Again Test
         Assert.assertEquals(INPUT,"123456");
-        //hip hop//adios
-        //alliswell
-        //onemore
+         Assert.assertEquals(INPUT1,"12345");
     }
 }
