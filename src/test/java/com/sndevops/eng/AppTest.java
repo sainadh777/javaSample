@@ -13,6 +13,6 @@ public class AppTest {
         // Ok
         // Again Test
         Assert.assertEquals(INPUT,"123456");
-         Assert.assertEquals(INPUT1,"1234");
+         //Assert.assertEquals(INPUT1,"1234");
     }
 }
