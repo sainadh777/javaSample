@@ -12,7 +12,7 @@ public class AppTest {
         // again
         // Ok
         // Again Test
-        Assert.assertEquals(INPUT,"12345678");
+        Assert.assertEquals(INPUT,"12345678567");
          //Assert.assertEquals(INPUT1,"1234");
     }
 }
