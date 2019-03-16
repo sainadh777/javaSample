@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        tedgbc System.out.println( "Mr.Perfect 12367777rfgtedfrwsfwffgfdgveatgdfvdeqafeqfsdsds gyv" );
+        System.out.println( "Mr.Perfect 12367777rfgtedfrwsfwffgfdgveatgdfvdeqafeqfsdsds gyv" );rwf
     }
 }
