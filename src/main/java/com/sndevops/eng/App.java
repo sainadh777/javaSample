@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        wrsfSystem.out.println( "Mr.Perfect 12367777rfgtedfrwsfwffgfdgveatgdfvdeqafeqfsdsds gyv" );
+        wrsfSystem.out.println( "Mr.Perfect 12367777rfgtedfrwsfwffgfdgveatgdfvdeqafeqfsdsds" );
     }
 }
