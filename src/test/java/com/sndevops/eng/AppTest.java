@@ -5,7 +5,7 @@ import org.junit.Test;
 public class AppTest {
 
     private String INPUT = "123456";
-     private String INPUT1 = "12345";
+    private String INPUT1 = "12345";
     @Test 
     public void testLength() {
         // test
